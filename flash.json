@@ -6,5 +6,65 @@
     {
         "ques":"Name the folk dance of Andhra Pradesh?",
         "ans" : "Kuchipudi, Vilasini Natyam, Andhra Natyam"
+    },
+    {
+        "ques" : "Name the Father of the Indian Constitution?",
+        "ans" : "Dr. B. R. Ambedkar"
+    },
+    {
+        "ques" : " Who was the first Prime Minister of India?",
+        "ans" : "Jawaharlal Nehru"
+    },
+    {
+        "ques" : "Who was the first woman Prime Minister of India?" ,
+        "ans" : "Indhira gandhi"
+    },
+    {
+        "ques" : " Name the national bird of the United States of America?" ,
+        "ans" : "Bald Eagle"
+    },
+    {
+        "ques" : "Name the deepest ocean in the world?" ,
+        "ans" : "Pacific ocean"
+    },
+    {
+        "ques" : " Name the smallest bone in the human body?" ,
+        "ans" : "stapes"
+    },
+    {
+        "ques" : "Name the gas which is filled in balloons?" ,
+        "ans" : " Helium"
+    },
+    {
+        "ques" : "Which two rivers merge in Devprayag to form the River Ganga?" ,
+        "ans" : " Alakananda and Bhagirathi rivers"
+    },
+    {
+        "ques" : "Name the deepest oceanic trench on Earth?" ,
+        "ans" : "Mariana Trench"
+    },
+    {
+        "ques" : "Aizawl is the capital of which state of India?" ,
+        "ans" : "Mizoram "
+    },
+    {
+        "ques" : "Name the country which has no capital?" ,
+        "ans" : "Nauru"
+    },
+    {
+        "ques" : "Name the summer capital of Jammu and Kashmir?" ,
+        "ans" : "Srinagar"
+    },
+    {
+        "ques" : " Who is the executive head of the Union Territories?" ,
+        "ans" : "president"
+    },
+    {
+        "ques" : "How many States and Union Territories are there in India?" ,
+        "ans" : "28 States and 8 Union Territories"
+    },
+    {
+        "ques" : "Which day is celebrated as Environment Day?" ,
+        "ans" : "5 June"
     }
 ]
