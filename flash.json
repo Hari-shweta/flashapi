@@ -92,63 +92,71 @@
         "ans" : "Decibel"
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "What do you mean by the term URL?",
+        "ans" : "It is the address of a web page on World Wide Web."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "Term which is used to see web pages is called what?",
+        "ans" : "A browser."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : " What is rate of transfer of data in the LAN?",
+        "ans" : "Kilo bits per second (Kbps)."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "In the Ethernet which topology is used?",
+        "ans" : "Bus."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "Set of rules and regulations while working on internet, which term is used?",
+        "ans" : "Protocol."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : " Connection of network which can only be attached to is what?",
+        "ans" : "Intranet."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "What do you mean by RAS?",
+        "ans" : "Remote access service."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "What do you mean by the term FTP?",
+        "ans" : "File transfer protocol."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "What does the PROTOCOL consists of?",
+        "ans" : "TCP/IP."
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "Which is the smallest planet within our solar system?",
+        "ans" : "Mercury"
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "The moon called Titan orbits which planet?",
+        "ans" : "Saturn"
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "Which is the brightest planet in the night’s sky?",
+        "ans" : "Venus"
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "Which planet is larger, Neptune or Saturn?",
+        "ans" : "Saturn"
     },
     {
-        "ques" : "",
-        "ans" : ""
+        "ques" : "There have been more missions to this planet versus any other planet",
+        "ans" : "Mars"
     },
     {
-        "ques" : "",
-        "ans" : ""
-    }
+        "ques" : "What protects Earth from meteoroids and radiation from the sun?",
+        "ans" : "It’s atmosphere"
+    },
+    {
+        "ques" : "Which planet has the most moons?"
+        "ans" : "Saturn"
+    },
+    {
+        "ques" : "Which is the oldest planet in our solar system?"
+        "ans" : "Jupiter"
+    },
 ]
